@@ -1,0 +1,6 @@
+@digonto_HostAddress = http://localhost:5223
+
+GET {{digonto_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
