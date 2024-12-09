@@ -12,7 +12,7 @@ namespace digonto.Controllers
     {
         [HttpGet]
         public IActionResult Index(){
-            return Ok("ApiTest priyo");
+            return Ok("ApiTest");
         }
     }
 }
